@@ -25,7 +25,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>form nilai sederhana</h1>
+    <h1>form  nilai sederhana</h1>
     <form action="testing.php" method="POST">
         <table>
             <tr>
