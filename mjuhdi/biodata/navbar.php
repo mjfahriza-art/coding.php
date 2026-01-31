@@ -11,6 +11,9 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="http://localhost/coding.php/mjuhdi/biodata/siswa/">Siswa</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="http://localhost/coding.php/mjuhdi/biodata/jurusan/">Jurusan
+                    </li>
                     
                 </ul>
                 <form class="d-flex" role="search">

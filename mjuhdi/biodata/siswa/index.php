@@ -31,6 +31,8 @@
                                     <th scope="col">#</th>
                                     <th scope="col">Nama</th>
                                     <th scope="col">NISN</th>
+                                    <th scope="col">jurusan</th>
+                                    <th scope="col">gelombang</th>
                                     <th scope="col">Tanggal Lahir</th>
                                     <th scope="col">Action</th>
                                 </tr>
@@ -55,6 +57,8 @@
                                     <th scope="row"><?=$nomor++?></th>
                                     <td><?=$data['nama']?></td>
                                     <td><?=$data['nisn']?></td>
+                                    <td><?=$data['nama_jurusan']?></td>
+                                    <td><?=$data['gelombang']?></td>
                                     <td><?=$data['tg_lahir']?></td>
                                     <td>
                                         <button class="btn btn-warning btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal<?=$data['id']?>"><i class="fa-solid fa-magnifying-glass"></i></button>
